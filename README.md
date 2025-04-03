@@ -108,6 +108,7 @@ Paper list for broad topics in machine learning systems
 
 
 ### 1.2 Caching and distributed storage for ML training
+- [arXiv'25] [Distributed LLMs and Multimodal Large Language Models: A Survey on Advances, Challenges, and Future Directions](https://arxiv.org/pdf/2503.16585)
 - [TPDS'23] High-Level Data Abstraction and Elastic Data Caching for Data-Intensive AI Applications on Cloud-Native Platforms
 - [SOSP'23] UGACHE: A Unified GPU Cache for Embedding-based Deep Learning
 - [ATC'23] Tectonic-Shift: A Composite Storage Fabric for Large-Scale ML Training
